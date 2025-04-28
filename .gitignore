@@ -11,7 +11,10 @@ __pycache__/
 *.pyd
 
 # Logs ou temporários
+*.xml
+*.html
 *.log
+*.png
 
 # Arquivos de sistema
 .DS_Store
